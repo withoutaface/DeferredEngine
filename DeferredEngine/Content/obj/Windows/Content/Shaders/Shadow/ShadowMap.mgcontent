@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/Shadow/ShadowMap.fx</SourceFile>
+  <SourceTime>2018-11-20T14:32:38+01:00</SourceTime>
+  <DestFile>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/bin/Windows/Content/Shaders/Shadow/ShadowMap.xnb</DestFile>
+  <DestTime>2020-12-08T17:40:23.7467791+01:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

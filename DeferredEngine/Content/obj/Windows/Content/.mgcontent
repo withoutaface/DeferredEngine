@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Art/Default/daft_helmets.obj</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Art/Default/dragon_lowpoly.fbx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Art/Default/dragon_normal.png</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Art/Default/dragon_uv_smooth.fbx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Art/Default/isosphere.fbx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Art/Default/skull.obj</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Art/Default/sphere.x</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Art/Editor/arrow.fbx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Art/Editor/arrowRound.fbx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Art/Editor/icon_decal.png</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Art/Editor/icon_envmap.png</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Art/Editor/icon_light.png</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Art/Editor/texStrip.png</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Art/Human/human.fbx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Art/plane.fbx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Art/Test/cube.fbx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Art/Test/squarebricks-ambientocclusion.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Art/Test/squarebricks-depth.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Art/Test/squarebricks-diffuse.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Art/Test/squarebricks-normal.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Art/Test/tubes.fbx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Art/Tiger/Tiger.fbx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Art/Truck/truck_skeleton.FBX</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Art/Truck/truck_skeleton_albedo.png</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Art/Truck/truck_skeleton_Metalness.png</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Art/Truck/truck_skeleton_normal.png</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Art/Truck/truck_skeleton_roughness.png</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Fonts/defaultfont.spritefont</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Fonts/monospace.spritefont</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Graphical User Interface/colorpickerbig.png</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Graphical User Interface/colorpickersmall.png</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/BloomFilter/Bloom.fx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/Deferred/DeferredClear.fx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/Deferred/DeferredCompose.fx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/Deferred/DeferredDecal.fx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/Deferred/DeferredDirectionalLight.fx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/Deferred/DeferredEnvironmentMap.fx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/Deferred/DeferredPointLight.fx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/Editor/BillboardEffect.fx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/Editor/IdRender.fx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/Editor/LineEffect.fx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/Emissive/EmissiveDraw.fx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/Forward/Forward.fx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/GBufferSetup/ClearGBuffer.fx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/GBufferSetup/Gbuffer.fx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/Hologram/HologramEffect.fx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/noise.png</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/noise_blur.png</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/PostProcessing/ColorGrading.fx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/PostProcessing/lut.png</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/PostProcessing/PostProcessing.fx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/ScreenSpace/GaussianBlur.fx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/ScreenSpace/ReconstructDepth.fx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/ScreenSpace/ScreenSpaceAO.fx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/ScreenSpace/ScreenSpaceReflections.fx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/Shadow/ShadowMap.fx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/Shadow/testShadow.fx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/SignedDistanceFields/sampleTexture.png</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/SignedDistanceFields/volumeProjection.fx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/SubsurfaceScattering/SubsurfaceScattering.fx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/TemporalAntiAliasing/TemporalAntiAliasing.fx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Shaders/Test/TexFilter.fx</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/Sponza.obj</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/background.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/background.png</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/background_1.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/background_ddn.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/background_ddn.tif</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/background_ddn_1.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/chain_texture.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/chain_texture_ddn.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/chain_texture_mask.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/lion.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/lion_ddn.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/lion2_ddn.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/spnza_bricks_a_ddn.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/spnza_bricks_a_diff.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/spnza_bricks_a_spec.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_arch_ddn.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_arch_diff.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_arch_spec.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_ceiling_a_diff.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_ceiling_a_spec.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_column_a_ddn.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_column_a_diff.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_column_a_spec.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_column_b_ddn.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_column_b_diff.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_column_b_spec.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_column_c_ddn.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_column_c_diff.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_column_c_spec.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_curtain_blue_diff.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_curtain_blue_spec.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_curtain_diff.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_curtain_green_diff.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_curtain_green_spec.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_curtain_metallic.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_curtain_spec.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_details_diff.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_details_spec.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_fabric_blue_diff.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_fabric_diff.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_fabric_green_diff.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_fabric_metallic.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_fabric_spec.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_flagpole_diff.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_flagpole_spec.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_floor_a_ddn.png</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_floor_a_diff.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_floor_a_spec.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_roof_diff.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_thorn_ddn.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_thorn_diff.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_thorn_mask.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/sponza_thorn_spec.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/vase_ddn.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/vase_dif.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/vase_hanging.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/vase_plant.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/vase_plant_mask.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/vase_plant_spec.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/vase_round.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/vase_round_ddn.jpg</File>
+    <File>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Sponza/textures/vase_round_spec.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

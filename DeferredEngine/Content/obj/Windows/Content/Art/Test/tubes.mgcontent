@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/Art/Test/tubes.fbx</SourceFile>
+  <SourceTime>2018-11-20T14:32:38+01:00</SourceTime>
+  <DestFile>C:/Users/Marcel/Documents/Projects/VisualStudio/xna/MonoGame/DeferredEngine/DeferredEngine/Content/bin/Windows/Content/Art/Test/tubes.xnb</DestFile>
+  <DestTime>2020-12-08T17:39:54.0136247+01:00</DestTime>
+  <Importer>FbxImporter</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>ModelProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>0,0,0,0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>DefaultEffect</Key>
+    <Value>BasicEffect</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateMipmaps</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateTangentFrames</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyTextureAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyVertexColors</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ResizeTexturesToPowerOfTwo</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>RotationX</Key>
+    <Value>0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>RotationY</Key>
+    <Value>0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>RotationZ</Key>
+    <Value>0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>Scale</Key>
+    <Value>1</Value>
+  </Parameters>
+  <Parameters>
+    <Key>SwapWindingOrder</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>DxtCompressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
